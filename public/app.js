@@ -1,5 +1,3 @@
-# assignment-two
-assignment 2
 
 var mr_dragon; //this is global variable
 
